@@ -1,1 +1,1 @@
-next-js-starter-example
+A Next.js starter example.
